@@ -1,0 +1,8 @@
+com\amigosCode\amigosCode\model\User.class
+com\amigosCode\amigosCode\service\UserService$1.class
+com\amigosCode\amigosCode\controller\UserController.class
+com\amigosCode\amigosCode\AmigosCodeApplication.class
+com\amigosCode\amigosCode\service\UserService.class
+com\amigosCode\amigosCode\ServletInitializer.class
+com\amigosCode\amigosCode\repository\UserRepository.class
+com\amigosCode\amigosCode\service\UserService$2.class
